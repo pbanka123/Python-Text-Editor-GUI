@@ -18,6 +18,7 @@
   <component name="ProjectId" id="1QyHsooSOgs9Uuwj5fBuaOLmAPW" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -71,7 +72,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568736124289</updated>
-      <workItem from="1568736139711" duration="4411000" />
+      <workItem from="1568736139711" duration="5395000" />
+      <workItem from="1568826017950" duration="325000" />
+      <workItem from="1568826369834" duration="238000" />
+      <workItem from="1568827874614" duration="1144000" />
+      <workItem from="1568943226846" duration="250000" />
+      <workItem from="1569337652692" duration="5047000" />
     </task>
     <servers />
   </component>
@@ -79,6 +85,6 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/483GUI$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1568740609323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sources" />
+    <SUITE FILE_PATH="coverage/483GUI$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1569342817082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sources" />
   </component>
 </project>
